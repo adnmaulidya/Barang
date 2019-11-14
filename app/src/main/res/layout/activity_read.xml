@@ -10,7 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Daftar Inventaris"
-        android:textSize="20dp"/>
+        android:textSize="20dp"
+        android:textAlignment="center"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_main"
